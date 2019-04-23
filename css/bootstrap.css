@@ -19,6 +19,15 @@
     margin-top:50px;
 }
 
+#shenzhen-ABOUT{
+    padding:0.25rem;
+    margin:7px;
+}
+#introduction-PAGE{
+    font-size:small;
+    margin-left:20px;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -503,6 +512,7 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
+  margin:10px;
 }
 
 .figure {
@@ -4639,10 +4649,21 @@ input[type="button"].btn-block {
   padding: 0.75rem 1.25rem;
   background-color:crimson;
   /**/border-bottom: 1px solid rgba(0, 0, 0, 0.125);
-  bottom:0;
-  position:absolute;
+  /*bottom:0;*/
   width:100%;
   height:60px;
+  text-align:center;
+}
+
+#footer-HOME {
+    padding: 0.75rem 1.25rem;
+    background-color: crimson;
+    /**/ border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    bottom: 0;
+    position:absolute;
+    width: 100%;
+    height: 60px;
+    text-align: center;
 }
 
 .card-footer:last-child {
