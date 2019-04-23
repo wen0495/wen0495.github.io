@@ -6,3 +6,12 @@ h1{
 body{
     background-color:paleturquoise;
 }
+
+#topPage{
+    border:solid white;
+    background-color:floralwhite;
+}
+
+#topPage:hover{
+    background-color:antiquewhite;
+}
