@@ -7,11 +7,12 @@ body{
     background-color:paleturquoise;
 }
 
-#topPage{
+#intro{
     border:solid white;
     background-color:floralwhite;
 }
 
-#topPage:hover{
+#intro:hover{
     background-color:antiquewhite;
+    box-sizing:
 }
